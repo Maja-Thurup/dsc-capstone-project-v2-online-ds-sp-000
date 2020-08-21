@@ -2,6 +2,12 @@
 
 For this project I scraped data from Imdb.com website. The goal of this project is to try and see if it is possible to train Neural Network to classify movie genres using movie description as input and list of genres as output.
 
+### Contents
+
+- [scraper](/Scraper_imdb.ipynb)
+- [Project Notebook](/Project_genre_final.ipynb)
+- [Dataset](https://www.kaggle.com/igorkirko/imdb-summary-trivia)
+
 ### Multi label classification problem
 
 Movies often have multiple genres, such as adventure in a spy movie, or crime in a science fiction movie. Usually one genre is predominant. For example drama listed as genre for about 60 % of all movies. And if you look deeper all movies are essentially dramas.
